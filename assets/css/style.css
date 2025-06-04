@@ -88,7 +88,7 @@ header h1 {
 }
 
 header nav {
-    display: flex; /*o dele ta none(?)*/
+    display: none; 
     align-items: center;
     gap: 1.5rem;
 }
